@@ -1,0 +1,26 @@
+body {
+    font-family: "Share Tech", sans-serif;
+    background-color: #faf4d3;
+    color: #0c1618;
+}
+
+h1 {
+    background-color: #004643;
+    color: #faf4d3;
+    text-align: center;
+}
+
+p {
+    color: red;
+}
+.share-tech-regular {
+  font-family: "Share Tech", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    border: medium dotted black;
+}
