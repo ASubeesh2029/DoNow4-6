@@ -29,3 +29,29 @@ p {
     border: medium dotted black;
     padding: 2%;
 }
+
+.red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 5px;
+    color: white;
+    display: inline-block;
+
+}
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 5px;
+    color: white;
+    display: inline-block;
+}
+.green {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: 5px;
+    color: white;
+    display: inline-block;
+}
