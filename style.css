@@ -1,4 +1,5 @@
 body {
+    margin: 0;
     font-family: "Share Tech", sans-serif;
     background-color: #faf4d3;
     color: #0c1618;
@@ -8,10 +9,13 @@ h1 {
     background-color: #004643;
     color: #faf4d3;
     text-align: center;
+    margin: 0;
+    
 }
 
 p {
     color: red;
+    padding: 2%;
 }
 .share-tech-regular {
   font-family: "Share Tech", sans-serif;
@@ -20,7 +24,8 @@ p {
 }
 
 .container {
-    width: 50%;
-    margin: auto;
+    width: 70%;
+    margin: 70px auto;
     border: medium dotted black;
+    padding: 2%;
 }
